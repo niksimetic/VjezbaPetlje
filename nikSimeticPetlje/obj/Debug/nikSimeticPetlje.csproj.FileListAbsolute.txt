@@ -1,0 +1,6 @@
+C:\Users\3.D\source\repos\nikSimeticPetlje\bin\Debug\nikSimeticPetlje.exe.config
+C:\Users\3.D\source\repos\nikSimeticPetlje\bin\Debug\nikSimeticPetlje.exe
+C:\Users\3.D\source\repos\nikSimeticPetlje\bin\Debug\nikSimeticPetlje.pdb
+C:\Users\3.D\source\repos\nikSimeticPetlje\obj\Debug\nikSimeticPetlje.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\nikSimeticPetlje\obj\Debug\nikSimeticPetlje.exe
+C:\Users\3.D\source\repos\nikSimeticPetlje\obj\Debug\nikSimeticPetlje.pdb
