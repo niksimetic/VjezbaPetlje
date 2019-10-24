@@ -1,0 +1,6 @@
+C:\Users\3.D\source\repos\nikSimeticString2\obj\Debug\nikSimeticString2.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\nikSimeticString2\bin\Debug\nikSimeticString2.exe.config
+C:\Users\3.D\source\repos\nikSimeticString2\bin\Debug\nikSimeticString2.exe
+C:\Users\3.D\source\repos\nikSimeticString2\bin\Debug\nikSimeticString2.pdb
+C:\Users\3.D\source\repos\nikSimeticString2\obj\Debug\nikSimeticString2.exe
+C:\Users\3.D\source\repos\nikSimeticString2\obj\Debug\nikSimeticString2.pdb
