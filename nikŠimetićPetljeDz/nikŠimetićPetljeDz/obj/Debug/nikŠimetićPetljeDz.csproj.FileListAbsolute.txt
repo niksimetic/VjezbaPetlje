@@ -1,0 +1,6 @@
+C:\Users\Nik\source\repos\nikŠimetićPetljeDz\nikŠimetićPetljeDz\bin\Debug\nikŠimetićPetljeDz.exe.config
+C:\Users\Nik\source\repos\nikŠimetićPetljeDz\nikŠimetićPetljeDz\bin\Debug\nikŠimetićPetljeDz.exe
+C:\Users\Nik\source\repos\nikŠimetićPetljeDz\nikŠimetićPetljeDz\bin\Debug\nikŠimetićPetljeDz.pdb
+C:\Users\Nik\source\repos\nikŠimetićPetljeDz\nikŠimetićPetljeDz\obj\Debug\nikŠimetićPetljeDz.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\nikŠimetićPetljeDz\nikŠimetićPetljeDz\obj\Debug\nikŠimetićPetljeDz.exe
+C:\Users\Nik\source\repos\nikŠimetićPetljeDz\nikŠimetićPetljeDz\obj\Debug\nikŠimetićPetljeDz.pdb
