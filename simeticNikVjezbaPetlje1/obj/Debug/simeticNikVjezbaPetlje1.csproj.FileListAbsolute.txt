@@ -1,0 +1,6 @@
+C:\Users\3.D\source\repos\simeticNikVjezbaPetlje1\obj\Debug\simeticNikVjezbaPetlje1.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\simeticNikVjezbaPetlje1\bin\Debug\simeticNikVjezbaPetlje1.exe.config
+C:\Users\3.D\source\repos\simeticNikVjezbaPetlje1\bin\Debug\simeticNikVjezbaPetlje1.exe
+C:\Users\3.D\source\repos\simeticNikVjezbaPetlje1\bin\Debug\simeticNikVjezbaPetlje1.pdb
+C:\Users\3.D\source\repos\simeticNikVjezbaPetlje1\obj\Debug\simeticNikVjezbaPetlje1.exe
+C:\Users\3.D\source\repos\simeticNikVjezbaPetlje1\obj\Debug\simeticNikVjezbaPetlje1.pdb
